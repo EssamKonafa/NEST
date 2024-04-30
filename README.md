@@ -1,49 +1,12 @@
-## Description
+# NestJS CRUD Project
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This NestJS project demonstrates CRUD operations and custom logging.
 
-## Installation
+## Overview
 
-```bash
-$ npm install
-```
+This project showcases how to build a RESTful API using NestJS, with endpoints for creating, reading, updating, and deleting user data. It also includes a custom logger service for improved logging capabilities.
 
-## Running the app
+## Features
 
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+- **CRUD Operations:** Create, Read, Update, and Delete operations for managing user data.
+- **Custom Logger Service:** Enhanced logging functionality within the application.
